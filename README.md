@@ -1,0 +1,2 @@
+# indian-stock-market-predict
+ 
